@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bebeal/tailwind-grid.git"
+    "url": "git+https://github.com/bebeal/tailwind-glass.git"
   },
   "publishConfig": {
     "access": "public"
