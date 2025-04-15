@@ -49,7 +49,7 @@ Use the `@plugin` directive in your css file:
 
 ```tsx
 <div className="bg-[url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100')] bg-contain bg-no-repeat bg-center">
-  <div className="glass h-[15rem] w-[20rem] rounded-md" />
+  <div className="glass-2 h-[15rem] w-[20rem] rounded-md" />
 </div>
 ```
 
