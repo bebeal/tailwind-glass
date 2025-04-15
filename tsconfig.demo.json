@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist/demo",
+    "rootDir": "."
+  },
+  "include": ["demo", "vite.config.ts", "tailwind.config.ts"],
+  "references": [
+    { "path": "./tsconfig.build.json" }
+  ]
+}
